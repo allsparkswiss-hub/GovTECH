@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1580" height="720" viewBox="0 0 1580 720">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#525252"/>
+  </marker>
+<style>
+    .title { font: 700 29px Arial, Helvetica, sans-serif; fill:#161616; }
+    .subtitle { font: 16px Arial, Helvetica, sans-serif; fill:#525252; }
+    .boxtitle { font: 700 15px Arial, Helvetica, sans-serif; fill:#161616; }
+    .bullet { font: 14px Arial, Helvetica, sans-serif; fill:#161616; }
+    .small { font: 13px Arial, Helvetica, sans-serif; fill:#525252; }
+    .label { font: 700 13px Arial, Helvetica, sans-serif; fill:#161616; }
+  </style>
+</defs>
+<rect x="0" y="0" width="1580" height="720" fill="#f4f4f4"/>
+<rect x="18" y="10" width="1544" height="64" rx="14" ry="14" fill="#ffffff" stroke="#8d8d8d" stroke-width="1.4"/>
+<rect x="18" y="10" width="1544" height="6" rx="14" ry="14" fill="#0f62fe" stroke="none"/>
+<text x="790.0" y="39" text-anchor="middle" class="title">Strategic Radar x+12 / Resilience Radar CH</text>
+<text x="790.0" y="58" text-anchor="middle" class="subtitle">Data-driven strategic foresight and environmental scanning using publicly available open data</text>
+<text x="316" y="100" text-anchor="middle" class="label">Acquisition</text>
+<text x="688" y="100" text-anchor="middle" class="label">Transform</text>
+<text x="1084" y="100" text-anchor="middle" class="label">Store &amp; analyze</text>
+<text x="1467" y="100" text-anchor="middle" class="label">Consume</text>
+<rect x="38" y="108" width="176" height="248" rx="12" ry="12" fill="#ffffff" stroke="#525252" stroke-width="1.4"/>
+<rect x="38" y="108" width="176" height="34" rx="12" ry="12" fill="#d0e2ff" stroke="#525252" stroke-width="1.4"/>
+<rect x="38" y="120" width="176" height="22" fill="#d0e2ff" stroke="none"/>
+<text x="50" y="132" class="boxtitle">1. Source Layer</text>
+<text x="54" y="164" class="bullet">• Public APIs</text>
+<text x="54" y="182" class="bullet">• Open gov data</text>
+<text x="54" y="200" class="bullet">• Statistics</text>
+<text x="54" y="218" class="bullet">• Geospatial data</text>
+<text x="54" y="236" class="bullet">• Weather / climate</text>
+<text x="54" y="254" class="bullet">• Energy data</text>
+<text x="54" y="272" class="bullet">• Legal / parliamentary</text>
+<text x="54" y="290" class="bullet">• Reports, PDFs</text>
+<text x="54" y="308" class="bullet">• RSS / news feeds</text>
+<rect x="236" y="126" width="160" height="196" rx="12" ry="12" fill="#ffffff" stroke="#525252" stroke-width="1.4"/>
+<rect x="236" y="126" width="160" height="34" rx="12" ry="12" fill="#d9fbfb" stroke="#525252" stroke-width="1.4"/>
+<rect x="236" y="138" width="160" height="22" fill="#d9fbfb" stroke="none"/>
+<text x="248" y="150" class="boxtitle">2. Ingestion Layer</text>
+<text x="252" y="182" class="bullet">• API connectors</text>
+<text x="252" y="200" class="bullet">• File downloaders</text>
+<text x="252" y="218" class="bullet">• RSS / feed collectors</text>
+<text x="252" y="236" class="bullet">• Optional scrapers</text>
+<text x="252" y="254" class="bullet">• Metadata capture</text>
+<rect x="418" y="140" width="160" height="178" rx="12" ry="12" fill="#ffffff" stroke="#525252" stroke-width="1.4"/>
+<rect x="418" y="140" width="160" height="34" rx="12" ry="12" fill="#e8f7ff" stroke="#525252" stroke-width="1.4"/>
+<rect x="418" y="152" width="160" height="22" fill="#e8f7ff" stroke="none"/>
+<text x="430" y="164" class="boxtitle">3. Raw Data Layer</text>
+<text x="434" y="196" class="bullet">• Raw file storage</text>
+<text x="434" y="214" class="bullet">• Object storage</text>
+<text x="434" y="232" class="bullet">• Original files</text>
+<text x="434" y="250" class="bullet">• API responses</text>
+<text x="434" y="268" class="bullet">• Snapshots</text>
+<text x="434" y="286" class="bullet">• Source metadata</text>
+<rect x="600" y="112" width="176" height="232" rx="12" ry="12" fill="#ffffff" stroke="#525252" stroke-width="1.4"/>
+<rect x="600" y="112" width="176" height="52" rx="12" ry="12" fill="#e8daff" stroke="#525252" stroke-width="1.4"/>
+<rect x="600" y="124" width="176" height="40" fill="#e8daff" stroke="none"/>
+<text x="612" y="136" class="boxtitle">4. Processing / ETL /</text>
+<text x="612" y="154" class="boxtitle">ELT</text>
+<text x="616" y="186" class="bullet">• Parsing &amp; cleaning</text>
+<text x="616" y="204" class="bullet">• Normalization</text>
+<text x="616" y="222" class="bullet">• Schema mapping</text>
+<text x="616" y="240" class="bullet">• Entity extraction</text>
+<text x="616" y="258" class="bullet">• Topic classification</text>
+<text x="616" y="276" class="bullet">• Chunking</text>
+<text x="616" y="294" class="bullet">• Embeddings</text>
+<text x="616" y="312" class="bullet">• Quality checks</text>
+<rect x="798" y="124" width="176" height="206" rx="12" ry="12" fill="#ffffff" stroke="#525252" stroke-width="1.4"/>
+<rect x="798" y="124" width="176" height="34" rx="12" ry="12" fill="#d9fbfb" stroke="#525252" stroke-width="1.4"/>
+<rect x="798" y="136" width="176" height="22" fill="#d9fbfb" stroke="none"/>
+<text x="810" y="148" class="boxtitle">5. Storage Layer</text>
+<text x="814" y="180" class="bullet">• PostgreSQL</text>
+<text x="814" y="198" class="bullet">• PostGIS (optional)</text>
+<text x="814" y="216" class="bullet">• MongoDB (optional)</text>
+<text x="814" y="234" class="bullet">• ChromaDB (optional)</text>
+<text x="814" y="252" class="bullet">• Search DB (optional)</text>
+<rect x="996" y="132" width="176" height="188" rx="12" ry="12" fill="#ffffff" stroke="#525252" stroke-width="1.4"/>
+<rect x="996" y="132" width="176" height="52" rx="12" ry="12" fill="#ffd7d9" stroke="#525252" stroke-width="1.4"/>
+<rect x="996" y="144" width="176" height="40" fill="#ffd7d9" stroke="none"/>
+<text x="1008" y="156" class="boxtitle">6. Analytics &amp;</text>
+<text x="1008" y="174" class="boxtitle">Intelligence</text>
+<text x="1012" y="206" class="bullet">• Indicator engine</text>
+<text x="1012" y="224" class="bullet">• Trend detection</text>
+<text x="1012" y="242" class="bullet">• Weak signals</text>
+<text x="1012" y="260" class="bullet">• Semantic retrieval</text>
+<text x="1012" y="278" class="bullet">• Evidence linking</text>
+<text x="1012" y="296" class="bullet">• Analytics services</text>
+<rect x="1194" y="114" width="168" height="242" rx="12" ry="12" fill="#ffffff" stroke="#525252" stroke-width="1.4"/>
+<rect x="1194" y="114" width="168" height="34" rx="12" ry="12" fill="#d0e2ff" stroke="#525252" stroke-width="1.4"/>
+<rect x="1194" y="126" width="168" height="22" fill="#d0e2ff" stroke="none"/>
+<text x="1206" y="138" class="boxtitle">7. API Layer</text>
+<text x="1210" y="170" class="bullet">• FastAPI</text>
+<text x="1210" y="188" class="bullet">• /sources</text>
+<text x="1210" y="206" class="bullet">• /datasets</text>
+<text x="1210" y="224" class="bullet">• /observations</text>
+<text x="1210" y="242" class="bullet">• /indicators</text>
+<text x="1210" y="260" class="bullet">• /trends</text>
+<text x="1210" y="278" class="bullet">• /signals</text>
+<text x="1210" y="296" class="bullet">• /search</text>
+<text x="1210" y="314" class="bullet">• /documents</text>
+<text x="1210" y="332" class="bullet">• /health</text>
+<rect x="1382" y="122" width="170" height="224" rx="12" ry="12" fill="#ffffff" stroke="#525252" stroke-width="1.4"/>
+<rect x="1382" y="122" width="170" height="52" rx="12" ry="12" fill="#d0e2ff" stroke="#525252" stroke-width="1.4"/>
+<rect x="1382" y="134" width="170" height="40" fill="#d0e2ff" stroke="none"/>
+<text x="1394" y="146" class="boxtitle">8. Presentation</text>
+<text x="1394" y="164" class="boxtitle">Layer</text>
+<text x="1398" y="196" class="bullet">• React</text>
+<text x="1398" y="214" class="bullet">• or Streamlit</text>
+<text x="1398" y="232" class="bullet">• Dashboards</text>
+<text x="1398" y="250" class="bullet">• Maps</text>
+<text x="1398" y="268" class="bullet">• Timelines</text>
+<text x="1398" y="286" class="bullet">• Heatmaps</text>
+<text x="1398" y="304" class="bullet">• Trend cards</text>
+<text x="1398" y="322" class="bullet">• Filters</text>
+<line x1="214" y1="232.0" x2="236" y2="224.0" stroke="#525252" stroke-width="1.8" marker-end="url(#arrow)"/>
+<line x1="396" y1="224.0" x2="418" y2="229.0" stroke="#525252" stroke-width="1.8" marker-end="url(#arrow)"/>
+<line x1="578" y1="229.0" x2="600" y2="228.0" stroke="#525252" stroke-width="1.8" marker-end="url(#arrow)"/>
+<line x1="776" y1="228.0" x2="798" y2="227.0" stroke="#525252" stroke-width="1.8" marker-end="url(#arrow)"/>
+<line x1="974" y1="227.0" x2="996" y2="226.0" stroke="#525252" stroke-width="1.8" marker-end="url(#arrow)"/>
+<line x1="1172" y1="226.0" x2="1194" y2="235.0" stroke="#525252" stroke-width="1.8" marker-end="url(#arrow)"/>
+<line x1="1362" y1="235.0" x2="1382" y2="234.0" stroke="#525252" stroke-width="1.8" marker-end="url(#arrow)"/>
+<rect x="330" y="372" width="980" height="42" rx="8" ry="8" fill="#ffffff" stroke="#8d8d8d" stroke-width="1.2" stroke-dasharray="6 6"/>
+<text x="354" y="397" class="boxtitle">Cross-cutting concerns:</text>
+<text x="562" y="397" class="small">versioning  •  data lineage  •  reproducibility  •  observability / logging  •  modularity  •  transparency  •  extensibility</text>
+<rect x="1278" y="442" width="250" height="176" rx="12" ry="12" fill="#ffffff" stroke="#525252" stroke-width="1.4"/>
+<rect x="1278" y="442" width="250" height="52" rx="12" ry="12" fill="#e8f7ff" stroke="#525252" stroke-width="1.4"/>
+<rect x="1278" y="454" width="250" height="40" fill="#e8f7ff" stroke="none"/>
+<text x="1290" y="466" class="boxtitle">9. Documentation &amp;</text>
+<text x="1290" y="484" class="boxtitle">Developer Layer</text>
+<text x="1294" y="516" class="bullet">• MkDocs</text>
+<text x="1294" y="534" class="bullet">• Architecture docs</text>
+<text x="1294" y="552" class="bullet">• Data model docs</text>
+<text x="1294" y="570" class="bullet">• Setup guides</text>
+<text x="1294" y="588" class="bullet">• Swagger UI / OpenAPI</text>
+<path d="M 1278.0 356 L 1278.0 430 L 1278 430 L 1278 530.0" fill="none" stroke="#525252" stroke-width="1.8" marker-end="url(#arrow)"/>
+</svg>

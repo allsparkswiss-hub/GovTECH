@@ -1,0 +1,136 @@
+site_name: Strategic Radar x+12
+site_description: GovTech-Hackathon-Challenge zu Open Data für prospektive Umfeldanalyse und strategische Resilienzindikatoren.
+site_author: VBS / Bund
+site_url: https://allsparkswiss-hub.github.io/GovTECH/
+repo_url: https://github.com/allsparkswiss-hub/GovTECH
+repo_name: allsparkswiss-hub/GovTECH
+edit_uri: ""
+docs_dir: docs
+site_dir: site
+use_directory_urls: true
+strict: true
+
+nav:
+  - Home: index.md
+  - Challenge: challenge.md
+  - Problem & Zielgruppe: problem-zielgruppe.md
+  - Datenquellen: datenquellen.md
+  - Architektur: architektur.md
+  - MVP & Deliverables: mvp-deliverables.md
+  - Teilnahme & Rahmenbedingungen: teilnahme-rahmenbedingungen.md
+  - Ausblick nach dem Hackathon: ausblick.md
+  - Kontakt: kontakt.md
+
+theme:
+  name: material
+  language: de
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: teal
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      reconfigure_material: true
+      languages:
+        - locale: de
+          default: true
+          name: Deutsch
+          build: true
+          site_description: GovTech-Hackathon-Challenge zu Open Data für prospektive Umfeldanalyse und strategische Resilienzindikatoren.
+          theme:
+            language: de
+          nav_translations:
+            Home: Home
+            Challenge: Challenge
+            Problem & Zielgruppe: Problem & Zielgruppe
+            Datenquellen: Datenquellen
+            Architektur: Architektur
+            MVP & Deliverables: MVP & Deliverables
+            Teilnahme & Rahmenbedingungen: Teilnahme & Rahmenbedingungen
+            Ausblick nach dem Hackathon: Ausblick nach dem Hackathon
+            Kontakt: Kontakt
+        - locale: en
+          name: English
+          build: true
+          site_description: GovTech hackathon challenge on open data for prospective environmental analysis and strategic resilience indicators.
+          theme:
+            language: en
+          nav_translations:
+            Home: Home
+            Challenge: Challenge
+            Problem & Zielgruppe: Problem & Target Groups
+            Datenquellen: Data Sources
+            Architektur: Architecture
+            MVP & Deliverables: MVP & Deliverables
+            Teilnahme & Rahmenbedingungen: Participation & Constraints
+            Ausblick nach dem Hackathon: Post-Hackathon Outlook
+            Kontakt: Contact
+        - locale: fr
+          name: Français
+          build: true
+          site_description: Challenge GovTech sur les données ouvertes pour l’analyse prospective de l’environnement et les indicateurs de résilience stratégique.
+          theme:
+            language: fr
+          nav_translations:
+            Home: Accueil
+            Challenge: Challenge
+            Problem & Zielgruppe: Problème et groupes cibles
+            Datenquellen: Sources de données
+            Architektur: Architecture
+            MVP & Deliverables: MVP et livrables
+            Teilnahme & Rahmenbedingungen: Participation et cadre
+            Ausblick nach dem Hackathon: Perspectives après le hackathon
+            Kontakt: Contact
+        - locale: it
+          name: Italiano
+          build: true
+          site_description: Challenge GovTech sui dati aperti per l’analisi prospettica del contesto e gli indicatori di resilienza strategica.
+          theme:
+            language: it
+          nav_translations:
+            Home: Home
+            Challenge: Challenge
+            Problem & Zielgruppe: Problema e gruppi target
+            Datenquellen: Fonti di dati
+            Architektur: Architettura
+            MVP & Deliverables: MVP e deliverable
+            Teilnahme & Rahmenbedingungen: Partecipazione e vincoli
+            Ausblick nach dem Hackathon: Prospettive dopo l'hackathon
+            Kontakt: Contatto
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/allsparkswiss-hub/GovTECH
+
+copyright: Copyright &copy; 2026 VBS / Bund
