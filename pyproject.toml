@@ -1,7 +1,7 @@
 [project]
 name = "strategic-radar-x12-docs"
 version = "0.1.0"
-description = "MkDocs-Microsite fuer die GovTech-Hackathon-Challenge Strategic Radar x+12."
+description = "MkDocs-Microsite für die GovTech-Hackathon-Challenge Strategic Radar x+12."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

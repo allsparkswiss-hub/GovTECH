@@ -17,7 +17,7 @@ Die Challenge adressiert die automatisierte, datengetriebene Umfeldanalyse mit e
 
 <div class="grid cards" markdown>
 
-- **Strategische Frueherkennung**
+- **Strategische Früherkennung**
 
   Trends, Resilienzindikatoren und Weak Signals sollen früher und systematischer sichtbar werden als in isolierten Einzelanalysen.
 
@@ -36,7 +36,7 @@ Die Challenge adressiert die automatisierte, datengetriebene Umfeldanalyse mit e
 </div>
 
 !!! info "Wichtig für Teilnehmende"
-    Teams müssen ihre **eigenen öffentlichen Datenquellen** selbst auswählen, abrufen und dokumentieren. Die auf dieser Website genannten Portale und APIs sind Beispiele, keine abschließende Liste.
+    Teams müssen ihre **eigenen öffentlichen Datenquellen** selbst auswählen, abrufen und dokumentieren. Die auf dieser Website genannten Portale und APIs sind Beispiele, keine abschliessende Liste.
 
 ## Was ein starkes MVP zeigt
 

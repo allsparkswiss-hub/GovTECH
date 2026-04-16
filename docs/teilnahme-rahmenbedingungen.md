@@ -2,7 +2,7 @@
 
 ## Verbindliche Leitplanken
 
-- Es dürfen ausschließlich **öffentlich verfügbare Datenquellen und Dokumente** genutzt werden.
+- Es dürfen ausschliesslich **öffentlich verfügbare Datenquellen und Dokumente** genutzt werden.
 - Interne, operative, sensitive oder klassifizierte Daten sind **nicht** Teil dieser Challenge.
 - Jede Quelle muss mit **URL, Format, Zugriffspfad und Abrufdatum** dokumentiert werden.
 - Offizielle APIs oder offizielle Downloads sind gegenüber Scraping klar zu bevorzugen.
@@ -11,7 +11,7 @@
 - Code, Schema, Zugriffspfad und Dokumentation sollen nach dem Hackathon möglichst wiederverwendbar sein.
 
 !!! warning "Pflicht für alle Teams"
-    Teilnehmende müssen ihre **eigenen öffentlichen Datenquellen selbst beschaffen und dokumentieren**. Diese Website liefert Orientierung und Beispiele, aber keinen abschließenden Datensatz.
+    Teilnehmende müssen ihre **eigenen öffentlichen Datenquellen selbst beschaffen und dokumentieren**. Diese Website liefert Orientierung und Beispiele, aber keinen abschliessenden Datensatz.
 
 ## Erwartete Arbeitsweise
 

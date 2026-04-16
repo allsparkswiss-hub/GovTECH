@@ -2,7 +2,7 @@
 
 ## Grundsatz
 
-Zulässig sind ausschließlich **öffentlich verfügbare Datenquellen und Dokumente**. Teams können die unten genannten Beispiele nutzen oder andere geeignete öffentliche Quellen auswählen. Entscheidend ist, dass Herkunft, Zugriff und Abrufzeitpunkt sauber dokumentiert werden.
+Zulässig sind ausschliesslich **öffentlich verfügbare Datenquellen und Dokumente**. Teams können die unten genannten Beispiele nutzen oder andere geeignete öffentliche Quellen auswählen. Entscheidend ist, dass Herkunft, Zugriff und Abrufzeitpunkt sauber dokumentiert werden.
 
 !!! warning "Verbindliche Mindestanforderung"
     Jede verwendete Quelle muss mindestens mit **URL, Format, Zugriffspfad und Abrufdatum** dokumentiert werden. Bevorzugt werden offizielle APIs oder offizielle Downloads statt Scraping.
@@ -15,8 +15,8 @@ Zulässig sind ausschließlich **öffentlich verfügbare Datenquellen und Dokume
 | [BFS / data.bfs.admin.ch](https://www.data.bfs.admin.ch/) / PX-Web API | Statistik | PX-Web API, JSON, Tabellen | Demografie, Wirtschaft, Gesellschaft, Raumbezug |
 | [geo.admin.ch](https://www.geo.admin.ch/) / technische Dienste | Geodaten und Geoservices | WMS, WMTS, Vector Tiles, Downloads, technische Dokumentation | Kartenbezug, Layer, Georeferenzierung |
 | [MeteoSwiss Open Data](https://opendatadocs.meteoswiss.ch/) / STAC | Wetter- und Klimadaten | STAC, Raster, Messreihen, Downloads | Klima, Wettertrends, Exposition |
-| [Swiss Parliament Open Data](https://ws.parlament.ch/) / Web Services | Politik und parlamentarische Aktivität | Web Services, strukturierte Abfragen | Vorstösse, Debatten, politische Signale |
-| [Fedlex SPARQL](https://www.fedlex.admin.ch/de/home/sparql.html) | Recht und Regulierung | SPARQL Endpoint | Regulierungsentwicklung, Normbezug, Rechtsänderungen |
+| [Swiss Parliament Open Data](https://ws-old.parlament.ch/) / Web Services | Politik und parlamentarische Aktivität | Web Services, strukturierte Abfragen | Vorstösse, Debatten, politische Signale |
+| [Fedlex SPARQL](https://www.fedlex.admin.ch/de/) | Recht und Regulierung | SPARQL Endpoint | Regulierungsentwicklung, Normbezug, Rechtsänderungen |
 | [LINDAS SPARQL](https://lindas.admin.ch/) | Linked Open Data | SPARQL Endpoint | Verknüpfung und semantische Referenzen |
 | [Schweizerisches Bundesamt für Energie](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten.html) | Energie- und Versorgungsstatistik | offizielle Statistiken, Downloads, teils APIs | Energieversorgung, Verbrauch, Infrastrukturindikatoren |
 

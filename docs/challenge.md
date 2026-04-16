@@ -13,16 +13,16 @@ Die Challenge zielt auf eine automatisierte, datengetriebene prospektive Umfelda
 Im Hackathon soll **kein Vollsystem** entstehen, sondern ein fokussiertes MVP mit klarer technischer Linie:
 
 - relevante öffentliche Datenquellen anbinden
-- Daten in einem gemeinsamen Modell zusammenfuehren
+- Daten in einem gemeinsamen Modell zusammenführen
 - Indikatoren und Evidenz nachvollziehbar darstellen
 - eine erste nutzbare Sicht für Analyse und Diskussion bereitstellen
 
-## Was die Challenge loesen soll
+## Was die Challenge lösen soll
 
 | Aspekt | Erwartung |
 | --- | --- |
 | Zeithorizont | ca. 10 bis 15 Jahre |
-| Datenbasis | ausschließlich öffentlich verfügbare Daten und Dokumente |
+| Datenbasis | ausschliesslich öffentlich verfügbare Daten und Dokumente |
 | Ergebnis | funktionierender Prototyp statt Vollplattform |
 | Fokus | Trendbeobachtung, Resilienzindikatoren, Weak Signals |
 | Transparenz | klare Quellenangaben und dokumentierte Datenwege |

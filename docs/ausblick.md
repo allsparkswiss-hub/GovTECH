@@ -14,7 +14,7 @@ Folgende Ergebnisse sind besonders wertvoll für die interne Nachbearbeitung:
 - Dashboard-Prototyp
 - Indikatoren und Visualisierungen mit hohem Pilotwert
 
-## Moegliche naechste Schritte
+## Mögliche nächste Schritte
 
 | Schritt | Ziel |
 | --- | --- |
@@ -22,10 +22,6 @@ Folgende Ergebnisse sind besonders wertvoll für die interne Nachbearbeitung:
 | Priorisierungsworkshop | Auswahl der anschlussfähigsten Use Cases und Indikatoren |
 | Begrenzte Nacharbeit | technische Härtung, Datenpflege, Qualitätsverbesserung |
 | Pilotprüfung | Abschätzung, ob ein enger Pilot oder Follow-up sinnvoll ist |
-
-## Warum dieser Ausblick wichtig ist
-
-Ein guter Hackathon-Beitrag erzeugt nicht nur Aufmerksamkeit, sondern eine belastbare Grundlage für Entscheidungen danach. Deshalb zählen klare Quellen, ein anschlussfähiges Datenmodell und ein nachvollziehbarer Architekturpfad besonders stark.
 
 !!! note "Orientierung für Teams"
     Denkt den Prototyp von Anfang an so, dass zentrale Artefakte auch nach dem Event noch brauchbar sind: Datenmodell, Dokumentation, Integrationslogik und Visualisierungsansatz.

@@ -15,8 +15,8 @@ Sono ammesse esclusivamente **fonti di dati e documenti pubblicamente disponibil
 | [BFS / data.bfs.admin.ch](https://www.data.bfs.admin.ch/) / PX-Web API | statistiche | PX-Web API, JSON, tabelle | demografia, economia, società, geografia |
 | [geo.admin.ch](https://www.geo.admin.ch/) / servizi tecnici | geodati e geoservizi | WMS, WMTS, vector tiles, download, documentazione tecnica | contesto cartografico, layer, georeferenziazione |
 | [MeteoSwiss Open Data](https://opendatadocs.meteoswiss.ch/) / STAC | dati meteo e climatici | STAC, raster, serie di misura, download | clima, trend meteorologici, esposizione |
-| [Swiss Parliament Open Data](https://ws.parlament.ch/) / web services | politica e attività parlamentare | web services, query strutturate | mozioni, dibattiti, segnali politici |
-| [Fedlex SPARQL](https://www.fedlex.admin.ch/de/home/sparql.html) | diritto e regolazione | endpoint SPARQL | evoluzione normativa, contesto giuridico, modifiche |
+| [Swiss Parliament Open Data](https://ws-old.parlament.ch/) / web services | politica e attività parlamentare | web services, query strutturate | mozioni, dibattiti, segnali politici |
+| [Fedlex SPARQL](https://www.fedlex.admin.ch/de/) | diritto e regolazione | endpoint SPARQL | evoluzione normativa, contesto giuridico, modifiche |
 | [LINDAS SPARQL](https://lindas.admin.ch/) | linked open data | endpoint SPARQL | collegamenti e riferimenti semantici |
 | [Ufficio federale svizzero dell’energia](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten.html) | statistiche energia e approvvigionamento | statistiche ufficiali, download, in parte API | approvvigionamento energetico, consumi, indicatori infrastrutturali |
 
